@@ -34,3 +34,6 @@ Recommender system has the ability to predict whether a particular user would pr
     * Preprocessing , Implementing the algorithm, Evaluating the error and benchmarking against standard MSE against 20M movie lens dataset
 
 *  Item - Item Collaborative Filtering
+   * Item_Item runs faster than User_User collaborative filtering
+   
+## 4. Compared performance of Item_Item and User_User collaborative filtering
